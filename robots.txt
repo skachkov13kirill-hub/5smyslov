@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Sitemap: https://5smyslov.ru/sitemap.xml
+
+# Демо-сайт. При деплое на боевой домен — замените 5smyslov.ru на финальный домен в:
+# - site/sitemap.xml (16 URL)
+# - site/robots.txt (эта строка)
+# - <link rel="canonical"> во всех HTML
+# - JSON-LD в index.html (@id, url, sameAs если меняется)

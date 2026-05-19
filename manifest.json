@@ -1,0 +1,14 @@
+{
+  "name": "5 смыслов — методика взаимопонимания в паре",
+  "short_name": "5 смыслов",
+  "description": "Авторская методика 5-ступенчатого послания партнёру + диагностика отношений по 12 слоям. Из практики 2 500+ сессий с парами.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f5f2",
+  "theme_color": "#6b5b95",
+  "lang": "ru",
+  "scope": "/",
+  "icons": [
+    {"src": "/og-image.svg", "sizes": "any", "type": "image/svg+xml"}
+  ]
+}

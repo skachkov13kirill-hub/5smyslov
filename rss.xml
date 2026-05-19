@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>5 смыслов — методика взаимопонимания в паре</title>
+  <link>https://5smyslov.ru/</link>
+  <description>Авторская методика 5-ступенчатого послания партнёру + диагностика отношений по 12 слоям. Из практики 2 500+ сессий с парами.</description>
+  <language>ru</language>
+  <atom:link href="https://5smyslov.ru/rss.xml" rel="self" type="application/rss+xml"/>
+  <lastBuildDate>Mon, 19 May 2026 12:00:00 +0300</lastBuildDate>
+
+  <item>
+    <title>Технология «5 смыслов»: как говорить о проблемах без скандала</title>
+    <link>https://5smyslov.ru/articles/5-smyslov.html</link>
+    <guid>https://5smyslov.ru/articles/5-smyslov.html</guid>
+    <pubDate>Mon, 19 May 2026 12:00:00 +0300</pubDate>
+    <description>Авторская техника 5-ступенчатого послания: Факт → Чувства → Интерпретация → Позитивная пресуппозиция → Шаг в договорённость.</description>
+    <category>Коммуникация</category>
+  </item>
+
+  <item>
+    <title>Фильтр Смысла и Фильтр Языка: где ломается коммуникация в паре</title>
+    <link>https://5smyslov.ru/articles/filtry-smysla-i-yazyka.html</link>
+    <guid>https://5smyslov.ru/articles/filtry-smysla-i-yazyka.html</guid>
+    <pubDate>Mon, 19 May 2026 12:00:00 +0300</pubDate>
+    <description>Каждое сообщение проходит через 2 фильтра. На каждом теряется до 30% информации.</description>
+    <category>Коммуникация</category>
+  </item>
+
+  <item>
+    <title>Почему вы ссоритесь на пустом месте: ФАКТ → ИНТЕРПРЕТАЦИЯ → ЧУВСТВА</title>
+    <link>https://5smyslov.ru/articles/fakt-interpretatsiya-chuvstva.html</link>
+    <guid>https://5smyslov.ru/articles/fakt-interpretatsiya-chuvstva.html</guid>
+    <pubDate>Mon, 19 May 2026 12:00:00 +0300</pubDate>
+    <description>85% эмоций возникает не на сказанное, а на интерпретацию. Базовая модель всей методики.</description>
+    <category>Эмоции и безопасность</category>
+  </item>
+
+  <item>
+    <title>«Круги вовлечённости»: кто за что отвечает в паре</title>
+    <link>https://5smyslov.ru/articles/krugi-vovlechennosti.html</link>
+    <guid>https://5smyslov.ru/articles/krugi-vovlechennosti.html</guid>
+    <pubDate>Mon, 19 May 2026 12:00:00 +0300</pubDate>
+    <description>Метрика ответственности каждого партнёра в 12 слоях отношений. Авторский инструмент диагностики.</description>
+    <category>Близость и развитие</category>
+  </item>
+
+  <item>
+    <title>4 слоя безопасности в паре: почему «вроде всё хорошо» — недостаточно</title>
+    <link>https://5smyslov.ru/articles/4-sloya-bezopasnosti.html</link>
+    <guid>https://5smyslov.ru/articles/4-sloya-bezopasnosti.html</guid>
+    <pubDate>Mon, 19 May 2026 12:00:00 +0300</pubDate>
+    <description>Коммуникация, Эмоции, Внешняя и Внутренняя безопасность — фундаментальные слои. Без них всё остальное обвалится.</description>
+    <category>Эмоции и безопасность</category>
+  </item>
+
+  <item>
+    <title>5 признаков эмоционального выгорания в паре</title>
+    <link>https://5smyslov.ru/articles/5-priznakov-emocionalnogo-vygoraniya.html</link>
+    <guid>https://5smyslov.ru/articles/5-priznakov-emocionalnogo-vygoraniya.html</guid>
+    <pubDate>Mon, 19 May 2026 12:00:00 +0300</pubDate>
+    <description>«Выгорание в браке» — не усталость от работы. Структурное истощение, маркеры, план восстановления.</description>
+    <category>Эмоции и безопасность</category>
+  </item>
+</channel>
+</rss>

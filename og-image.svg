@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1d2a3a"/>
+      <stop offset="100%" stop-color="#0f1722"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="80%" cy="20%" r="60%">
+      <stop offset="0%" stop-color="#6b5b95" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#6b5b95" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <text x="80" y="200" font-family="Lora, Georgia, serif" font-size="120" font-weight="700" fill="#f7f5f2">
+    5 <tspan fill="#a89ec4" font-style="italic">смыслов</tspan>
+  </text>
+  <text x="80" y="280" font-family="Lora, Georgia, serif" font-size="46" font-style="italic" fill="#a89ec4">
+    методика взаимопонимания в паре
+  </text>
+  <rect x="80" y="350" width="120" height="3" fill="#6b5b95"/>
+  <text x="80" y="430" font-family="Inter, sans-serif" font-size="32" fill="#cfcadb">
+    Факт → Чувства → Интерпретация
+  </text>
+  <text x="80" y="475" font-family="Inter, sans-serif" font-size="32" fill="#cfcadb">
+    → Позитивная пресуппозиция → Шаг в договорённость
+  </text>
+  <text x="80" y="560" font-family="Inter, sans-serif" font-size="22" fill="#a89ec4" letter-spacing="2">
+    АВТОРСКИЙ МЕТОД · 2 500+ СЕССИЙ С ПАРАМИ
+  </text>
+</svg>
